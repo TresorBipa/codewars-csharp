@@ -39,6 +39,7 @@ namespace CodeWars
 
             //return word.Select((x, i) => ++i).Where(x => "aoueiyAEIOUY".Contains(word[x - 1])).ToArray();
             return Regex.Matches(word, "(?i)[aeiouy]").Select(m => m.Index + 1).ToArray();
+            //return Regex.Matches(word, "[aeiouy]", RegexOptions.IgnoreCase).Select(m => m.Index + 1).ToArray();
         }
     }
 }
