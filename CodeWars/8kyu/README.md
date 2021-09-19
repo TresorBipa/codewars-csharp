@@ -79,12 +79,11 @@
 75 | [Enumerable Magic #4 - True for None?](EnumerableMagicTrueForNone.cs) | [545993ee52756d98ca0010e1](https://www.codewars.com/kata/545993ee52756d98ca0010e1/csharp) |
 76 | [Even or Odd](EvenOdd.cs) | [53da3dbb4a5168369a0000fe](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/csharp) |
 77 | [Evil or Odious](EvilOrOdious.cs) | [56fcfad9c7e1fa2472000034](https://www.codewars.com/kata/56fcfad9c7e1fa2472000034/csharp) |
-78 | [Exclamation marks series #1: Remove a exclamation mark from the end of stri...](ExclamationMarksSeries1.cs) | [57fae964d80daa229d000126](https://www.codewars.com/kata/57fae964d80daa229d000126/csharp) |
-79 | [Exclamation marks series #11: Replace all vowel to exclamation mark in the ...](ReplaceAllVowelToExclamationMarkInSentence.cs) | [57fb09ef2b5314a8a90001ed](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/csharp)
-|
-80 | [Exclamation marks series #2: Remove all exclamation marks from the end of s...](ExclamationMarksSeries2.cs) | [57faece99610ced690000165](https://www.codewars.com/kata/57faece99610ced690000165/csharp) |
-81 | [Exclamation marks series #4: Remove all exclamation marks from sentence but...](ExclamationMarksSeries4.cs) | [57faf12b21c84b5ba30001b0](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/csharp) |
-82 | [Exclamation marks series #6: Remove n exclamation marks in the sentence fro...](ExclamationMarksSeries6.cs) | [57faf7275c991027af000679](https://www.codewars.com/kata/57faf7275c991027af000679/csharp) |
+78 | [Exclamation marks series #1: Remove a exclamation mark from the end of string](ExclamationMarksSeries1.cs) | [57fae964d80daa229d000126](https://www.codewars.com/kata/57fae964d80daa229d000126/csharp) |
+79 | [Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence](ReplaceAllVowelToExclamationMarkInSentence.cs) | [57fb09ef2b5314a8a90001ed](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/csharp) |
+80 | [Exclamation marks series #2: Remove all exclamation marks from the end of sentence](ExclamationMarksSeries2.cs) | [57faece99610ced690000165](https://www.codewars.com/kata/57faece99610ced690000165/csharp) |
+81 | [Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a...](ExclamationMarksSeries4.cs) | [57faf12b21c84b5ba30001b0](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/csharp) |
+82 | [Exclamation marks series #6: Remove n exclamation marks in the sentence from left to...](ExclamationMarksSeries6.cs) | [57faf7275c991027af000679](https://www.codewars.com/kata/57faf7275c991027af000679/csharp) |
 83 | [Exclusive "or" (xor) Logical Operator](ExclusiveOrXorLogicalOperator.cs) | [56fa3c5ce4d45d2a52001b3c](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/csharp) |
 84 | [Expressions Matter ](ExpressionsMatter.cs) | [5ae62fcf252e66d44d00008e](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/csharp) |
 85 | [Fake Binary](FakeBinary.cs) | [57eae65a4321032ce000002d](https://www.codewars.com/kata/57eae65a4321032ce000002d/csharp) |
@@ -250,7 +249,7 @@
 245 | [The falling speed of petals](FallingSpeedOfPetals.cs) | [5a0be7ea8ba914fc9c00006b](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/csharp) |
 246 | [The Feast of Many Beasts](FeastOfManyBeasts.cs) | [5aa736a455f906981800360d](https://www.codewars.com/kata/5aa736a455f906981800360d/csharp) |
 247 | [The Wide-Mouthed frog! ](WideMouthedFrog.cs) | [57ec8bd8f670e9a47a000f89](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/csharp) |
-248 | [They say that only the name is long enough to attract attention. They also ...](Opposite.cs) | [574b1916a3ebd6e4fa0012e7](https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7/csharp) |
+248 | [They say that only the name is long enough to attract attention. They also said that...](Opposite.cs) | [574b1916a3ebd6e4fa0012e7](https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7/csharp) |
 249 | [Thinkful - Logic Drills: Traffic light](ThinkfulLogicDrillsTrafficLight.cs) | [58649884a1659ed6cb000072](https://www.codewars.com/kata/58649884a1659ed6cb000072/csharp) |
 250 | [Thinkful - Number Drills: Blue and red marbles](ThinkfulNumberDrillsBlueAndEedMarbles.cs) | [5862f663b4e9d6f12b00003b](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/csharp) |
 251 | [Thinkful - Number Drills: Pixelart planning](ThinkfulNumberDrillsPixelartPlanning.cs) | [58630e2ae88af44d2b0000ea](https://www.codewars.com/kata/58630e2ae88af44d2b0000ea/csharp) |
@@ -278,4 +277,3 @@
 273 | [Wilson primes](WilsonPrimes.cs) | [55dc4520094bbaf50e0000cb](https://www.codewars.com/kata/55dc4520094bbaf50e0000cb/csharp) |
 274 | [You Can't Code Under Pressure #1](YouCantCodeUnderPressure.cs) | [53ee5429ba190077850011d4](https://www.codewars.com/kata/53ee5429ba190077850011d4/csharp) |
 275 | [You only need one - Beginner](YouOnlyNeedOneBeginner.cs) | [57cc975ed542d3148f00015b](https://www.codewars.com/kata/57cc975ed542d3148f00015b/csharp) |
-
