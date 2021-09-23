@@ -2,7 +2,7 @@
 https://www.codewars.com/kata/the-paperfold-sequence/train/csharp
 https://www.codewars.com/kata/5d26721d48430e0016914faa/solutions/csharp
 
-7 kyu
+6 kyu
 The PaperFold sequence
 
 Wikipedia: The regular paperfolding sequence, also known as the dragon curve sequence, 
