@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/alan-partridge-ii-apple-turnover/train/csharp
-https://www.codewars.com/kata/alan-partridge-ii-apple-turnover/solutions/csharp
+https://www.codewars.com/kata/alan-partridge-ii-apple-turnover/csharp
+https://www.codewars.com/kata/580a094553bd9ec5d800007d/csharp
 
 8 kyu
 Alan Partridge II - Apple Turnover
