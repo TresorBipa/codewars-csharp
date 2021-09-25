@@ -1,7 +1,7 @@
 ﻿
 /*
 https://www.codewars.com/kata/short-long-short/train/csharp
-
+https://www.codewars.com/kata/50654ddff44f800200000007/csharp
 
 8 kyu
 Short Long Short
@@ -13,11 +13,7 @@ For example:
 
 ShortLongShort.Solution("1", "22"); // returns "1221"
 ShortLongShort.Solution("22", "1"); // returns "1221"
-
 */
-
-
-
 
 namespace CodeWars
 {
