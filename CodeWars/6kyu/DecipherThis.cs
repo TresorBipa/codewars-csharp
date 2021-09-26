@@ -1,5 +1,5 @@
 ﻿/*
-
+https://www.codewars.com/kata/581e014b55f2c52bb00000f8/csharp
 
 6 kyu
 Decipher this!
@@ -30,7 +30,7 @@ namespace CodeWars
             return string.Join(" ", s
                 .Split()
                 .Select(x => Regex.Replace(x, @"(\d+)(.?)(.*?)(.?)$", m =>
-                    (char) int.Parse(m.Groups[1].Value) +
+                    (char)int.Parse(m.Groups[1].Value) +
                     m.Groups[4].Value +
                     m.Groups[3].Value +
                     m.Groups[2].Value))
