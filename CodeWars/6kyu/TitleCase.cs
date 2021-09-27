@@ -1,5 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/title-case/train/csharp
+https://www.codewars.com/kata/title-case/csharp
+https://www.codewars.com/kata/5202ef17a402dd033c000009/csharp
 
 6 kyu
 Title Case
