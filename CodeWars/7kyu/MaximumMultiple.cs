@@ -1,6 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/maximum-multiple/train/csharp
-
+https://www.codewars.com/kata/5aba780a6a176b029800041c/csharp
 
 7 kyu
 Maximum Multiple
