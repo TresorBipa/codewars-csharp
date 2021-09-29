@@ -1,5 +1,5 @@
 ﻿/*
-https://www.codewars.com/kata/5b83c1c44a6acac33400009a/csharp
+https://www.codewars.com/kata/59a2a3ba5eb5d4e609000055/csharp
 
 7 kyu
 Find array
