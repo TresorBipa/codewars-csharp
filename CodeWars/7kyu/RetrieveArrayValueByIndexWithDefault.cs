@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/retrieve-array-value-by-index-with-default/train/csharp
-https://www.codewars.com/kata/retrieve-array-value-by-index-with-default/solutions/csharp
+https://www.codewars.com/kata/retrieve-array-value-by-index-with-default/csharp
+https://www.codewars.com/kata/515ceaebcc1dde8870000001/csharp
 
 7 kyu
 Retrieve array value by index with default
@@ -29,6 +29,16 @@ namespace CodeWars
     {
         public static int Solution(int[] items, int index, int defaultValue)
         {
+            return items.Length >= Math.Abs(index)
+                ? index < 0 ? items[^Math.Abs(index)] : items[index]
+                : defaultValue;
+
+
+            // return items.Length >= Math.Abs(index)
+            //     ? index < 0 ? items[items.Length - Math.Abs(index)] : items[index]
+            //     : defaultValue;
+
+
             // var result = 0;
             // if (items.Length >= Math.Abs(index))
             // {
@@ -40,10 +50,6 @@ namespace CodeWars
             // }
             //
             // return result;
-
-            return items.Length >= Math.Abs(index)
-                ? index < 0 ? items[items.Length - Math.Abs(index)] : items[index]
-                : defaultValue;
         }
 
         // public static int Solution(int[] items, int index, int defaultValue)
