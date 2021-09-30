@@ -1,6 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/sort-numbers/train/csharp
-
+https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/csharp
 
 7 kyu
 Sort Numbers
