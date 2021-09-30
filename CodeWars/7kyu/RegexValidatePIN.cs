@@ -1,14 +1,19 @@
-﻿//https://www.codewars.com/kata/regex-validate-pin-code/train/csharp
-//https://www.codewars.com/kata/regex-validate-pin-code/solutions/csharp
+﻿/*
+https://www.codewars.com/kata/regex-validate-pin-code/csharp
+https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/csharp
 
-//Regex validate PIN code
+7 kyu
+Regex validate PIN code
 
-//ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
-//If the function is passed a valid PIN string, return true, else return false.
-//eg:
-//ValidatePin("1234") => true
-//ValidatePin("12345") => false
-//ValidatePin("a234") => false
+ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
+
+If the function is passed a valid PIN string, return true, else return false.
+
+Examples
+"1234"   -->  true
+"12345"  -->  false
+"a234"   -->  false
+*/
 
 using System;
 using System.Linq;
@@ -40,6 +45,5 @@ namespace CodeWars
         //{
         //    return Regex.IsMatch(pin, @"^(\d{6}|\d{4})\z");
         //}
-
     }
 }
