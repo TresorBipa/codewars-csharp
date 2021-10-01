@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/sum-of-powers-of-2/train/csharp
-https://www.codewars.com/kata/sum-of-powers-of-2/solutions/csharp
+https://www.codewars.com/kata/sum-of-powers-of-2/csharp
+https://www.codewars.com/kata/5d9f95424a336600278a9632/csharp
 
 7 kyu
 Sum of powers of 2
