@@ -1,6 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/two-oldest-ages-1/train/csharp
-https://www.codewars.com/kata/two-oldest-ages-1/solutions/csharp
+https://www.codewars.com/kata/511f11d355fe575d2c000001/csharp
 
 7 kyu
 Two Oldest Ages
