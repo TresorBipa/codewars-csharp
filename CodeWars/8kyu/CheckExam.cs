@@ -30,8 +30,6 @@ namespace CodeWars
     {
         public static int CheckExam(string[] arr1, string[] arr2)
         {
-            if (arr1.Length != 4 || arr2.Length != 4) return 0;
-
             int sum = 0;
             for (var i = 0; i < arr2.Length; i++)
             {
@@ -46,7 +44,7 @@ namespace CodeWars
             return sum > 0 ? sum : 0;
 
 
-            //return Math.Max(arr2.Select((c, i) => c == "" ? 0 : c == arr1[i] ? 4 : -1).Sum(), 0);
+            // return Math.Max(arr2.Select((c, i) => c == "" ? 0 : c == arr1[i] ? 4 : -1).Sum(), 0);
         }
     }
 }
