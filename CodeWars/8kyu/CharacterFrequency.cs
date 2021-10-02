@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/character-frequency-2/train/csharp
-
+https://www.codewars.com/kata/character-frequency-2/csharp
+https://www.codewars.com/kata/548ef5b7f33a646ea50000b2/csharp
 
 8 kyu
 Character Frequency
