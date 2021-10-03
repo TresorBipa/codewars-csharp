@@ -1,5 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/duck-duck-goose/csharp
+https://www.codewars.com/kata/582e0e592029ea10530009ce/csharp
 
 8 kyu
 Duck Duck Goose
