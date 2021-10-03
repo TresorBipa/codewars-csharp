@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/contamination-number-1-string/train/csharp
-https://www.codewars.com/kata/contamination-number-1-string/solutions
+https://www.codewars.com/kata/contamination-number-1-string/csharp
+https://www.codewars.com/kata/596fba44963025c878000039/csharp
 
 8 kyu
 Contamination #1 -String-
