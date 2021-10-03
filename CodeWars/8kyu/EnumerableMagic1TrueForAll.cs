@@ -1,7 +1,7 @@
 ﻿
 /*
-https://www.codewars.com/kata/enumerable-magic-number-1-true-for-all/train/csharp
-
+https://www.codewars.com/kata/enumerable-magic-number-1-true-for-all/csharp
+https://www.codewars.com/kata/54598d1fcbae2ae05200112c/csharp
 
 8 kyu
 Enumerable Magic #1 - True for All?
