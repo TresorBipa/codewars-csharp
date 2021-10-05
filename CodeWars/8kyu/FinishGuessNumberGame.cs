@@ -1,5 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/finish-guess-the-number-game/csharp
+https://www.codewars.com/kata/568018a64f35f0c613000054/csharp
 
 8 kyu
 Finish Guess the Number Game
