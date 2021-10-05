@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/grasshopper-array-mean/train/csharp
-
+https://www.codewars.com/kata/grasshopper-array-mean/csharp
+https://www.codewars.com/kata/55d277882e139d0b6000005d/csharp
 
 8 kyu
 Grasshopper - Array Mean
