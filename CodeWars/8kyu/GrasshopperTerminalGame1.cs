@@ -1,6 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/grasshopper-terminal-game-number-1/train/csharp
-
+https://www.codewars.com/kata/55e8aba23d399a59500000ce/csharp
 
 8 kyu
 Grasshopper - Terminal Game #1
