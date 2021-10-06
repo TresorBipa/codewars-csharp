@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/grasshopper-combine-strings/train/csharp
-https://www.codewars.com/kata/grasshopper-combine-strings/solutions
+https://www.codewars.com/kata/grasshopper-combine-strings/csharp
+https://www.codewars.com/kata/55f73f66d160f1f1db000059/csharp
 
 8 kyu
 Grasshopper - Combine strings
