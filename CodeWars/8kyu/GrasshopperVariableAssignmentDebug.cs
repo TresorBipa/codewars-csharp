@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/grasshopper-variable-assignment-debug/train/csharp
-https://www.codewars.com/kata/grasshopper-variable-assignment-debug/solutions
+https://www.codewars.com/kata/grasshopper-variable-assignment-debug/csharp
+https://www.codewars.com/kata/5612e743cab69fec6d000077/csharp
 
 8 kyu
 Grasshopper - Variable Assignment Debug
