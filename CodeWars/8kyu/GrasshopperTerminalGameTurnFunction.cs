@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/grasshopper-terminal-game-turn-function/train/csharp
-https://www.codewars.com/kata/grasshopper-terminal-game-turn-function/solutions/csharp
+https://www.codewars.com/kata/grasshopper-terminal-game-turn-function/csharp
+https://www.codewars.com/kata/56019d3b2c39ccde76000086/csharp
 
 8 kyu
 Grasshopper - Terminal Game Turn Function
