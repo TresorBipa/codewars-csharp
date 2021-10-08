@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/keep-up-the-hoop/train/csharp
-https://www.codewars.com/kata/keep-up-the-hoop/solutions/csharp
+https://www.codewars.com/kata/keep-up-the-hoop/csharp
+https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/csharp
 
 8 kyu
 Keep up the hoop
