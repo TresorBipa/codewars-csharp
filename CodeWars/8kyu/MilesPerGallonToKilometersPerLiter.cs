@@ -1,6 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/miles-per-gallon-to-kilometers-per-liter/train/csharp
-https://www.codewars.com/kata/miles-per-gallon-to-kilometers-per-liter/solutions/csharp
+https://www.codewars.com/kata/557b5e0bddf29d861400005d/csharp
 
 8 kyu
 Miles per gallon to kilometers per liter
