@@ -1,6 +1,6 @@
 ﻿/*
-https://www.codewars.com/kata/regexp-basics-is-it-a-digit/train/csharp
-
+https://www.codewars.com/kata/regexp-basics-is-it-a-digit/csharp
+https://www.codewars.com/kata/567bf4f7ee34510f69000032/csharp
 
 8 kyu
 Regexp Basics - is it a digit?
