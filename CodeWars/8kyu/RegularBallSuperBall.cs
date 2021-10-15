@@ -1,6 +1,6 @@
 ﻿/*
 https://www.codewars.com/kata/regular-ball-super-ball/csharp
-https://www.codewars.com/kata/regular-ball-super-ball/solutions/csharp
+https://www.codewars.com/kata/53f0f358b9cb376eca001079/csharp
 
 8 kyu
 Regular Ball Super Ball
