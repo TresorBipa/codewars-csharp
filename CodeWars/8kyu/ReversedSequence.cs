@@ -1,10 +1,14 @@
-﻿//https://www.codewars.com/kata/reversed-sequence/train/csharp
+﻿/*
+https://www.codewars.com/kata/reversed-sequence/csharp
+https://www.codewars.com/kata/5a00e05cc374cb34d100000d/csharp
 
-// 8 kyu
-// Reversed sequence
+8 kyu
+Reversed sequence
 
-//Get the number n (n>0) to return the reversed sequence from n to 1.
-//Example : n=5 >> [5,4,3,2,1]
+Build a function that returns an array of integers from n to 1 where n>0.
+
+Example : n=5 --> [5,4,3,2,1]
+*/
 
 using System.Linq;
 
