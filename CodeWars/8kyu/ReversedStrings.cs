@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
+﻿/*
+https://www.codewars.com/kata/5168bb5dfe9a00b126000018/csharp
+
+8 kyu
+Reversed Strings
+
+Complete the solution so that it reverses the string passed into it.
+'world'  =>  'dlrow'
+*/
+
 using System.Linq;
-using System.Text;
-
-//https://www.codewars.com/kata/reversed-strings/train/csharp
-//https://www.codewars.com/kata/reversed-strings/solutions/csharp
-//Complete the solution so that it reverses the string value passed into it.
-//Kata.Solution("world") //returns "dlrow"
-
 
 namespace CodeWars
 {
@@ -15,7 +16,8 @@ namespace CodeWars
     {
         public static string Solution(string str)
         {
-            return new string(str.Reverse().ToArray());
+            // return new string(str.Reverse().ToArray());
+            return string.Concat(str.Reverse());
         }
     }
 }
