@@ -1,13 +1,18 @@
-﻿//https://www.codewars.com/kata/rock-paper-scissors/train/csharp
+﻿/*
+https://www.codewars.com/kata/5672a98bdbdd995fad00000f/csharp
+https://www.codewars.com/kata/rock-paper-scissors/csharp
 
-//Rock Paper Scissors!
-//8 kyu
+8 kyu
+Rock Paper Scissors!
 
-//Let's play! You have to return which player won! In case of a draw return Draw!.
-//Examples:
-//rps('scissors','paper') // Player 1 won!
-//rps('scissors','rock') // Player 2 won!
-//rps('paper','paper') // Draw!
+Rock Paper Scissors
+Let's play! You have to return which player won! In case of a draw return Draw!.
+
+Examples:
+rps('scissors','paper') // Player 1 won!
+rps('scissors','rock') // Player 2 won!
+rps('paper','paper') // Draw!
+*/
 
 using System;
 using System.Collections.Generic;
