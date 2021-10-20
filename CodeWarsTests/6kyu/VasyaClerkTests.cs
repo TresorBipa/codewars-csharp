@@ -19,5 +19,12 @@ namespace CodeWarsTests
             int[] peopleInLine = new int[] {25, 100};
             Assert.AreEqual("NO", VasyaClerk.Tickets(peopleInLine));
         }
+        
+        // [Test]
+        // public void Test3()
+        // { //1000 2000 1000 2000 5000
+        //     int[] peopleInLine = new int[] {25, 50, 25, 50, 100};
+        //     Assert.AreEqual("NO", VasyaClerk.Tickets(peopleInLine));
+        // }
     }
 }
