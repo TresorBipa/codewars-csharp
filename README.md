@@ -9,6 +9,7 @@
 ![](https://flat.badgen.net/github/last-commit/a-kozhanov/codewars_csharp)
 ![](https://github.com/a-kozhanov/codewars_csharp/workflows/codewars_csharp_tests/badge.svg)
 [![](https://www.codewars.com/users/a.kozhanov/badges/micro)](https://www.codewars.com/users/a.kozhanov)
+[![wakatime](https://wakatime.com/badge/user/c0c837b6-b14f-4d2a-8d1f-d4baccb05c44/project/70d16236-e8f5-49fa-9d9a-2db5bc4e9816.svg)](https://wakatime.com/@akozhanov)
 ![GitHub](https://img.shields.io/github/license/a-kozhanov/codewars-csharp)
 
 ## Overview
