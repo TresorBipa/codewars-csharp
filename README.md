@@ -4,6 +4,8 @@
 <img width="90%" height="90%" src="https://github.com/a-kozhanov/codewars_csharp/blob/master/img/logo_codewars.png" hspace="20">
 </div>
 
+<div align="center">
+
 ![](http://hits.dwyl.com/a-kozhanov/codewars_csharp.svg)
 ![](https://flat.badgen.net/github/commits/a-kozhanov/codewars_csharp)
 ![](https://flat.badgen.net/github/last-commit/a-kozhanov/codewars_csharp)
@@ -11,6 +13,8 @@
 [![](https://www.codewars.com/users/a.kozhanov/badges/micro)](https://www.codewars.com/users/a.kozhanov)
 ![GitHub](https://img.shields.io/github/license/a-kozhanov/codewars-csharp)
 [![wakatime](https://wakatime.com/badge/user/c0c837b6-b14f-4d2a-8d1f-d4baccb05c44/project/70d16236-e8f5-49fa-9d9a-2db5bc4e9816.svg)](https://wakatime.com/@akozhanov)
+
+</div>
 
 ## Overview
 
