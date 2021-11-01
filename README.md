@@ -20,6 +20,13 @@
 
 My solutions for [CodeWars][1] kata using C# 8.0 .Net Core 3.1
 
+[8 Kyu - Beginner](./CodeWars/8kyu/README.md)  
+[7 Kyu - Beginner](./CodeWars/7kyu/README.md)  
+[6 Kyu - Novice](./CodeWars/6kyu/README.md)  
+[5 Kyu - Novice](./CodeWars/5kyu/README.md)  
+[4 Kyu - Competent](./CodeWars/4kyu/README.md)  
+[3 Kyu - Competent](./CodeWars/3kyu/README.md)
+
 ## About Codewars
 
 Let's see Codewars's defenition [from](https://github.com/Codewars/codewars.com/wiki/About-Codewars)  Codewars wiki:
