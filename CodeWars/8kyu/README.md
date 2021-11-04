@@ -1,4 +1,4 @@
-# CodeWars 8 kyu katas
+# CodeWars 8 kyu solutions
 
 |   #  |   Kata Name   |   CodeWars Link   |
 |---|----------|:-------------:|
