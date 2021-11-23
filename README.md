@@ -18,7 +18,9 @@
 
 ## Overview
 
-My solutions for [CodeWars][1] kata using C# 8.0 .Net Core 3.1
+My solutions for [CodeWars][1] kata using C# 8.0 .Net Core 3.1  
+Strongly encouraged not to look at my solutions to kata until you have completed it yourselves or at least took the time
+to think about your own approaches.
 
 [8 Kyu - Beginner](./CodeWars/8kyu/README.md)  
 [7 Kyu - Beginner](./CodeWars/7kyu/README.md)  
