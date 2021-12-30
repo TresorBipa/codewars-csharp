@@ -19,14 +19,12 @@ namespace CodeWars
     {
         public static int EvenTimesLast(int[] arr)
         {
-            // return arr.Where((_,i) => i % 2 == 0).Sum(x => x * arr[^1]);
-            return arr.Select((x, i) => i % 2 == 0 ? x * arr[^1] : 0).Sum();
+            return arr.Where((_, i) => i % 2 == 0).Sum(x => x * arr[^1]);
+            // return arr.Select((x, i) => i % 2 == 0 ? x * arr[^1] : 0).Sum();
             // return arr.Where((_,i) => i % 2 == 0).Sum() * arr.LastOrDefault();
             // return arr.Select((x, i) => i % 2 == 0 ? x : 0).Sum(x => x * arr[^1]);
-            // return !arr.Any() ? 0 : arr.Where((x,i) => i % 2 == 0).Sum() * arr[^1];
+            // return arr.Any() ? arr.Where((x,i) => i % 2 == 0).Sum() * arr[^1] : 0;
             // return arr.Where((_,i) => i % 2 == 0).Sum(x => x * arr.LastOrDefault());
-        }   
+        }
     }
 }
-
-
