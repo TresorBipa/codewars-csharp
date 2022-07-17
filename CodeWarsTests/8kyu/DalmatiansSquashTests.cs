@@ -1,7 +1,7 @@
-﻿using CodeWars;
+﻿using CodeWars._8kyu;
 using NUnit.Framework;
 
-namespace CodeWarsTests
+namespace CodeWarsTests._8kyu
 {
     [TestFixture]
     public class DalmatiansSquashTests
