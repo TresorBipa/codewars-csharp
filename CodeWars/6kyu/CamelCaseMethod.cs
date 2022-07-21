@@ -1,5 +1,4 @@
-﻿
-//https://www.codewars.com/kata/camelcase-method/train/csharp
+﻿//https://www.codewars.com/kata/camelcase-method/train/csharp
 //https://www.codewars.com/kata/587731fda577b3d1b0001196/solutions/csharp
 
 //CamelCase Method
@@ -24,9 +23,12 @@ namespace CodeWars
     {
         public static string CamelCase(this string str)
         {
-            var sb = new StringBuilder();
-            foreach (var w in str.Trim().Split()) sb.Append(CultureInfo.CurrentCulture.TextInfo.ToTitleCase(w));
-            return sb.ToString();
+            return string.Concat(CultureInfo.CurrentCulture.TextInfo.ToTitleCase(str).Split());
+            // return CultureInfo.CurrentCulture.TextInfo.ToTitleCase(str).Replace(" ", string.Empty);
+
+            // var sb = new StringBuilder();
+            // foreach (var w in str.Trim().Split()) sb.Append(CultureInfo.CurrentCulture.TextInfo.ToTitleCase(w));
+            // return sb.ToString();
         }
 
 
@@ -107,7 +109,6 @@ namespace CodeWars
         //}
 
 
-
         //public static string CamelCase(this string str)  
         //{ 
         //    return String.Join(null, str.Split(' ').Where(s => s != "").Select(s => s[0].ToString().ToUpper() + s.Substring(1)));
@@ -119,7 +120,6 @@ namespace CodeWars
         //        .Select(s => s.Substring(0, 1).ToUpperInvariant() + s.Substring(1).ToLowerInvariant()));
 
 
-
         //public static string CamelCase(this string str)  
         //{  
         //    return string.Join("", str.Split(' ')
@@ -128,13 +128,11 @@ namespace CodeWars
         //}
 
 
-
         //public static string CamelCase(this string str)  
         //{  
         //    TextInfo cultInfo = new CultureInfo("en-US", false).TextInfo;
         //    return cultInfo.ToTitleCase(str).Replace(" ", "");
         //}
-
 
 
         //public static string CamelCase(this string str)  
@@ -148,11 +146,7 @@ namespace CodeWars
         //    //your code here
         //    return string.Join("", System.Threading.Thread.CurrentThread.CurrentCulture.TextInfo.ToTitleCase(str.ToLower()).ToString().Split(' '));
         //}
-
-
-
-
-
-
     }
 }
+
+
