@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Net;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -32,8 +33,12 @@ namespace CodeWars
     {
         public static bool is_valid_IP(string ipAddres)
         {
-            const string pattern = @"^(?:(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])(\.(?!$)|$)){4}$";
-            return Regex.IsMatch(ipAddres, pattern);
+            var validIp = IPAddress.TryParse(ipAddres, out var ip);
+            return validIp && ip.ToString() == ipAddres;
+
+
+            // const string pattern = @"^(?:(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9][0-9]|[0-9])(\.(?!$)|$)){4}$";
+            // return Regex.IsMatch(ipAddres, pattern);
         }
 
         //Best Practices
@@ -43,6 +48,7 @@ namespace CodeWars
         //    bool validIp = IPAddress.TryParse(IpAddres, out ip);
         //    return validIp && ip.ToString() == IpAddres;
         //}
-
     }
 }
+
+
