@@ -24,15 +24,16 @@ text after  = "zzz"
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace CodeWars
-{
-    public class Contamination1String
-    {
-        public static string Contamination(string text, string character)
-        {
-            return string.Concat(Enumerable.Repeat(character, text.Length));
-        }
+namespace CodeWars._8kyu;
 
-        //public static string Contamination(string text, string character) => new Regex(@".").Replace(text, character);
+public static class Contamination1String
+{
+    public static string Contamination(string text, string character)
+    {
+        // return character.Any() ? new string(character[0], text.Length) : "";
+        // return new string(character.Any() ? character[0] : null, text.Length);
+        // return character.Any() ? "".PadLeft(text.Length, character[0]) : "";
+        return string.Concat(Enumerable.Repeat(character, text.Length));
+        // return new Regex(".").Replace(text, character);
     }
 }
